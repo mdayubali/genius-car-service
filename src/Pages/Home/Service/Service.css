@@ -1,0 +1,25 @@
+.service-content {
+        border: 1px solid red;
+        padding: 10px;
+        border: rad;
+        border-radius: 5px;
+}
+.booking-button{
+    width: 70%;
+    margin: 0px auto;
+    display: block;
+    padding: 10px;
+    background: salmon;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.booking-button:hover{
+    color: #ffff;
+    cursor: pointer;
+}
+.element-center{
+    display: block;
+    margin: 10px auto;
+}
